@@ -148,7 +148,7 @@ async function fetchRepoIssues(repo) {
 
 async function loadGithubIssues() {
   try {
-    const repos = yearnRepos;
+    const repos = koyoRepos;
     const mainDiv = document.getElementById("main");
     const sidebar = document.querySelector(".list-unstyled");
     const bodySideBar = document.querySelector(".sticky-top");

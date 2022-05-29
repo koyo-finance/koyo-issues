@@ -27,7 +27,7 @@ body {
 }
 
 .navbar-dark {
-  background: rgb(0, 106, 227);
+  background: rgb(213, 138, 159);
 }
 
 .navbar-nav .nav-item {
@@ -35,11 +35,11 @@ body {
 }
 
 a {
-  color: rgb(0, 106, 227);
+  color: rgb(213, 138, 159);
 }
 
 a:hover {
-  color: rgb(0, 106, 227);
+  color: rgb(213, 138, 159);
 }
 
 a.link-bg {

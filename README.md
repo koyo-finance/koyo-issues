@@ -1,7 +1,9 @@
-# Yearn Open Issues Browser
+# Kōyō Open Issues Browser
 
-- Check it out: [contribute.yearn.rocks](https://contribute.yearn.rocks)
+- Check it out: [contribute.koyo.finance](https://contribute.koyo.finance)
 
 ### Credits
 
-- Forked from: [TRTL Issues](https://github.com/turtlecoin/trtl-issues)
+- Forked from:
+   - [Yearn Issues](https://github.com/saltyfacu/yearn-issues)
+   - [TRTL Issues](https://github.com/turtlecoin/trtl-issues)
