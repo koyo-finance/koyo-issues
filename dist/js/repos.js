@@ -8,6 +8,10 @@ const koyoRepos = [
     name: "sdks",
   },
   {
+    full_name: "koyo-finance/exchange-contracts",
+    name: "exchange-contracts",
+  },
+  {
     full_name: "koyo-finance/exchange-info",
     name: "exchange-info",
   },
